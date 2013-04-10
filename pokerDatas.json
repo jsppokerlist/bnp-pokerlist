@@ -6,6 +6,7 @@
 			"listRunner":[
 				{"name": "Resilience","link": "http://forums.d2jsp.org/user.php?i=235196"}
 			],
+			"stickies_URL":"http://bnp-pokerlist.googlecode.com/svn/trunk/stickies.txt",
 			"namesURL_Fokse": "http://dedie.nsnf-clan.net/PokerStatus/bettor_list2.txt",
 			"namesURL_Resilience": "http://bnp-pokerlist.googlecode.com/svn/trunk/pokerList.txt"
 		}
