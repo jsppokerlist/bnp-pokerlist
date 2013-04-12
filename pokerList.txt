@@ -1,4 +1,4 @@
-﻿346933|B_R_A_D|1|BradsJsp|bradjsp
+346933|B_R_A_D|1|BradsJsp|bradjsp
 418486|BuTcHeS|1|lll BuTcHeS lll|Butches
 500582|Chill|1|ChillJsp|Chilljsp
 261208|jajaja|1|Rshahnyc93|t4triver
@@ -886,7 +886,7 @@
 697742|thugl1fe|5|0|0
 773211|tictac1|5|0|0
 696988|TittsOrGtfo|5|0|0
-552188|WiliamWalace|4|0|0
+552188|WiliamWalace|4|jamesaam|0
 499964|Togusa|5|0|0
 846236|TomDurrr|5|0|0
 870487|TouDeN|5|0|0
@@ -2457,7 +2457,7 @@
 836391|Tobyr20|0|tobydr@live.com|Tobyjsp
 328289|aznsupaman408|0|aznsupaman408|0
 667326|brian_isback|0|Brianrmcleod79|sTpjsp16
-228396|Fokse|3|Foksejsp|FoookseClub
+228396|Fokse|3|FokseJSP|FoookseClub
 905500|HelloBaby12|0|hbabyjsp|bemuse101
 823726|Suits|0|0|suitsjsp
 555420|Ironchefdubz|6|0|0
