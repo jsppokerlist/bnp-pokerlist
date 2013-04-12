@@ -886,7 +886,7 @@
 697742|thugl1fe|5|0|0
 773211|tictac1|5|0|0
 696988|TittsOrGtfo|5|0|0
-552188|WiliamWalace|4|0|0
+552188|WiliamWalace|4|jamesaam|0
 499964|Togusa|5|0|0
 846236|TomDurrr|5|0|0
 870487|TouDeN|5|0|0
@@ -2457,7 +2457,7 @@
 836391|Tobyr20|0|tobydr@live.com|Tobyjsp
 328289|aznsupaman408|0|aznsupaman408|0
 667326|brian_isback|0|Brianrmcleod79|sTpjsp16
-228396|Fokse|3|Foksejsp|FoookseClub
+228396|Fokse|3|FoKsEJSP|FoookseClub
 905500|HelloBaby12|0|hbabyjsp|bemuse101
 823726|Suits|0|0|suitsjsp
 555420|Ironchefdubz|6|0|0
@@ -2605,7 +2605,7 @@
 277963|DuKRoMeO|6|0|0
 976620|390|6|0|0
 810843|wobbble|6|0|0
-169681|ol_dirty|0|0|räikkönen54
+169681|ol_dirty|0|0|rÃ¤ikkÃ¶nen54
 476613|4ndr3as|0|Troppppphy|0
 228758|Fergus82|0|fergusjsp|Phol Ivey
 500930|magicpeak|0|0|MagicJsp
@@ -2749,6 +2749,8 @@
 229924|Knock|0|0|Knock@Jsp
 405378|Erg_zolw|0|0|Sunnes
 877679|free4good|0|tevasberg01@yahoo.com|0
+278014|Dragoon427|5|0|0
 984399|Saladfingerz|0|0|Fingersalad
 980211|IINZII|6|0|0
 984419|KushUps|6|0|0
+789527|820|5|0|0
