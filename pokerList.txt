@@ -100,7 +100,7 @@
 657479|Chamamex|4|0|0
 447319|CheKe|4|0|0
 677624|Chiefy|4|0|0
-944211|ChillenEast|4|0|Lucky#7
+944211|ChillenEast|4|N.shriver1@yahoo.com|Lucky#7
 612971|Chpo|4|0|0
 667744|cHuMbAwUmBa|4|barandpublic@live.fr|0
 363699|cjyogi|4|0|0
@@ -1425,7 +1425,7 @@
 865761|Harvard|6|0|0
 379223|havek187|6|0|0
 400784|hawj12|6|0|0
-570797|Haxs|4|0|0
+570797|Haxs|4|haxsjsp|0
 30723|Hazard|6|0|0
 523461|hcb1ch|6|0|0
 583735|HcZ_Demonoc|6|0|0
@@ -2371,7 +2371,7 @@
 524297|Decked|0|Ianhailey08|ianmpaul
 671553|kakson|0|kakson@gmail.com|illmil
 857169|Pulsion|0|pulsionbg|0
-693214|r4ul|0|SoSiicck|0
+693214|r4ul|0|SoSiicck|SoOSiiCcK
 280225|Maoriman|0|che_fui@hotmail.com|0
 363121|Shang_Tsung|0|davide1193|0
 530355|DS9|0|DS9jsp|DS9jsp
@@ -2399,7 +2399,7 @@
 466409|Flopps|0|FloppsJSP|Floppsd2jsp
 385770|Bonyai|0|mikeb3.jsp|0
 435962|TheBlackHole|0|Theblackhole1766|Theblackhol
-569831|steventyler696|0|Steven696jsp|0
+569831|steventyler696|0|Steven696jsp|StS696
 284898|ortsead|0|ortsead|W841t
 356055|crazey_crack3r|0|Tmabes90|0
 859735|kopeRek|0|koperekai|waave
@@ -2411,9 +2411,9 @@
 955165|xPGen|0|xPGen1992|PlsSumBluff
 382978|hurlyz|0|hurlyz|hurlyz
 537332|Gotta|3|Xumairx|XUmairX
-158599|seppel123|3|seppel123jsp|0
+158599|seppel123|3|seppel123jsp|seppel123jsp
 453663|kxyor|0|Kxyorjsp|0
-48236|wutang36|0|wutang_36|0
+48236|wutang36|0|wutang_36|wutang36
 755107|boel|0|boeljsp@live.dk|Call It Even
 899350|mpn|0|ayeitzmeako|mpnjsp
 734231|Arrowing|0|ArrowingJsp|Arrowing
@@ -2463,7 +2463,7 @@
 555420|Ironchefdubz|6|0|0
 806924|THOR24|5|0|0
 417967|Fr3nChi|0|Fr3nChi|Fr3nChi
-341557|Ownuatbf2|0|0|AlexSirois85
+341557|Ownuatbf2|0|Ownuatbf2|AlexSirois85
 961715|Russky|0|0|7MarPlu
 876533|MiniWheat|0|0|Ahamielec
 845830|Sf6plove2|0|0|luckierdonk
@@ -2553,7 +2553,7 @@
 409408|inuitboy|0|JspHustla|friendlyinou
 415439|Sophisticated|0|wilmkck9|will4420
 949187|Greenie|6|0|0
-476582|ben_davis|4|0|ben_davis17
+476582|ben_davis|4|ben_davis9@yahoo.com|ben_davis17
 882951|XVampX420|4|0|XVampX420
 946724|Peterpann|0|0|JKLfdas
 226462|5_TIBETANS|0|0|phaidron
@@ -2592,7 +2592,7 @@
 545722|Knobkerrie|4|0|0
 535481|pastafarian|0|0|pastajsp
 229430|layne|0|0|insaneman211
-805798|GUnitAx|0|Lexani3@gmx.de|0
+805798|1fg|0|Lexani3@gmx.de|GUnitAx
 392654|aceofspades5|0|mattmclaughlin88|gimmefg
 475879|ViK93|4|lindstrom93@hotmail.com|0
 866212|PStacks|6|0|0
@@ -2684,7 +2684,7 @@
 910436|Unrealpk|0|0|BelowRail
 891575|VayneDH|0|VayneDH|VayneDHJSP
 977089|OneUp|0|0|NiceHandSon
-980948|HighSince87|0|0|K_Fisk
+980948|HighSince87|0| k_fisk@yahoo.com|K_Fisk
 875356|Drdaylight|0|0|NZLdonk
 969311|DeThree|0|0|RoyBoy1432
 954513|KenoGrc|6|0|KenoGRC
@@ -2715,7 +2715,7 @@
 981859|Nyalone|0|0|Nyalone
 513348|FrostedBirdz|0|0|OmGITzLucky
 898154|RyanGuy01|0|0|Ryanguy101
-984056|Waterboat|5|WaterboyJsp|0
+984056|Waterboat|5|WaterboyJsp|Waterboatjsp
 945307|DSXJ|0|0|!PAUCH187!
 246562|p3rk3l3z|6|0|0
 638468|slamboozle|6|0|0
@@ -2734,7 +2734,7 @@
 977405|milkmanmom|6|0|0
 986192|hedgeyhog|6|0|0
 593530|Jerico|0|imfreezingland|0
-416393|Whiskers|1|WhiskersJSP|WhiskersJSP
+416393|Whiskers|2|WhiskersJSP|WhiskersJSP
 686584|Lamelma|0|Lamelma123|LamelmaJsp
 764957|Avalon|0|0|How2Donk
 847127|Haril_Hurst|0|0|Hurstharil20
@@ -2743,14 +2743,22 @@
 753127|Diamant|0|Poker4jsp|Poker4jsp
 950681|slash79|0|slash79jsp|SlaSh79jsp
 987096|RedFuzzy|0|FuzzyJsp|0
-984311|unforgiven1991|0|0|Unforgive969
+984311|unforgiven1991|0|unforgiven9793|Unforgive969
 314075|Popular|0|0|PopularJsp
 387213|Piedpiper18|0|0|Piedpiper18
 229924|Knock|0|0|Knock@Jsp
 405378|Erg_zolw|0|0|Sunnes
 877679|free4good|0|tevasberg01@yahoo.com|0
 278014|Dragoon427|5|0|0
-984399|Saladfingerz|0|0|Fingersalad
+984399|Saladfingerz|0|sicksaladfingerz|Fingersalad
+401492|ironstone54|0|HighTide4L|vise54
 980211|IINZII|6|0|0
 984419|KushUps|6|0|0
 789527|820|5|0|0
+983541|HopeHope|0|HopeHope99|0
+572831|Martins|0|0|Marreofc
+885877|Axid3nt|0|0|Axid3nt
+272147|Hardbase|0|Hardbase.fm@gmx.at|HARDnSTYLE
+836644|mosen123|0|jg_021@hotmail.com|m0sen
+924684|poaky|0|poaky.jsp|0
+923769|tehmorbid|0|teh.morbid|tehmorbidjsp
