@@ -1,4 +1,4 @@
-﻿346933|B_R_A_D|1|BradsJsp|bradjsp
+346933|B_R_A_D|1|BradsJsp|bradjsp.
 418486|BuTcHeS|1|lll BuTcHeS lll|Butches
 500582|Chill|1|ChillJsp|Chilljsp
 261208|jajaja|1|Rshahnyc93|t4triver
@@ -2457,7 +2457,7 @@
 836391|Tobyr20|0|tobydr@live.com|Tobyjsp
 328289|aznsupaman408|0|aznsupaman408|0
 667326|brian_isback|0|Brianrmcleod79|sTpjsp16
-228396|Fokse|3|FoKsEJSP|FoookseClub
+228396|Fokse|3|FokseJSP|FoookseClub
 905500|HelloBaby12|0|hbabyjsp|bemuse101
 823726|Suits|0|0|suitsjsp
 555420|Ironchefdubz|6|0|0
@@ -2605,7 +2605,7 @@
 277963|DuKRoMeO|6|0|0
 976620|390|6|0|0
 810843|wobbble|6|0|0
-169681|ol_dirty|0|0|rÃ¤ikkÃ¶nen54
+169681|ol_dirty|0|0|räikkönen54
 476613|4ndr3as|0|Troppppphy|0
 228758|Fergus82|0|fergusjsp|Phol Ivey
 500930|magicpeak|0|0|MagicJsp
@@ -2762,4 +2762,3 @@
 836644|mosen123|0|jg_021@hotmail.com|m0sen
 924684|poaky|0|poaky.jsp|0
 923769|tehmorbid|0|teh.morbid|tehmorbidjsp
-
