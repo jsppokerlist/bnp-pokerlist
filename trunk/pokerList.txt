@@ -2457,7 +2457,7 @@
 836391|Tobyr20|0|tobydr@live.com|Tobyjsp
 328289|aznsupaman408|0|aznsupaman408|0
 667326|brian_isback|0|Brianrmcleod79|sTpjsp16
-228396|Fokse|3|FokseJSP|FoookseClub
+228396|Fokse|3|FokseJSP|FookseClub
 905500|HelloBaby12|0|hbabyjsp|bemuse101
 823726|Suits|0|0|suitsjsp
 555420|Ironchefdubz|6|0|0
@@ -2754,6 +2754,7 @@
 401492|ironstone54|0|HighTide4L|vise54
 980211|IINZII|6|0|0
 984419|KushUps|6|0|0
+878717|GloryD2K|0|0|GloryD2K
 789527|820|5|0|0
 983541|HopeHope|0|HopeHope99|0
 572831|Martins|0|0|Marreofc
