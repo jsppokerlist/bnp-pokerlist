@@ -12,7 +12,7 @@
 386627|ToughGuy_TJ|1|Bearcat512|ToughGuy_TJ
 305906|umade|1|whysomade|InzaiT
 290332|lVlark|2|LvLarkjsp|ntfukasjsp
-403925|Oral|2|oraljsp|littlewinggg
+403925|Oral|0|oraljsp|littlewinggg
 128272|sarge799|2|xdrek1|sarge799
 715514|Suit|2|zurichjsp|zurichjsp
 341057|tehmilk|0|xtc2341|0
@@ -2764,3 +2764,4 @@
 924684|poaky|0|poaky.jsp|0
 923769|tehmorbid|0|teh.morbid|tehmorbidjsp
 980902|emma_stone|4|0|jspepicattac
+987969|Kawasaki6|0|0|KingK101
