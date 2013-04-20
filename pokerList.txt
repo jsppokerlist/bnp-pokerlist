@@ -2740,7 +2740,6 @@
 847127|Haril_Hurst|0|0|Hurstharil20
 562800|SsS|0|0|Mosc0w
 977372|Wraeclast|6|0|PeaceKeepr
-753127|Diamant|0|Poker4jsp|Poker4jsp
 950681|slash79|0|slash79jsp|SlaSh79jsp
 987096|RedFuzzy|0|FuzzyJsp|0
 984311|unforgiven1991|0|unforgiven9793|Unforgive969
