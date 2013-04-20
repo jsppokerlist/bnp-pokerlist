@@ -28,7 +28,7 @@
 549309|infallibleleo|3|infallibleleo|infalliblele
 223396|infinity.|0|infinityjsp|inzinity
 211625|magicbouba|1|magicboubajsp|magicbouba
-208601|MaryJuana|3|Luckb0xx|luckb0xx
+208601|MaryJuana|0|Luckb0xx|luckb0xx
 603646|Nevada|3|Nevadad2jsp|nevada@jsp
 586352|Prominence|3|diablolord21@yahoo.com|relin2
 400050|Royal3|3|royal3xx|goodroy
