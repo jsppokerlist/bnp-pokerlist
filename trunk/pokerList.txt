@@ -2353,7 +2353,7 @@
 936700|Menacebros|0|Menacebrosd2jsp|0
 239369|ArianaGrande|0|Frozenmonkey3|FMonkey1
 965468|JourneyPassage|0|Journeypassage|journeypass
-950895|THCHunter|0|prowallbang|Ev_Badbeat
+950895|THCHunter|0|prowallbang|danielrod117
 940930|JCamp|0|jcampjsp|0
 418399|sausenebb|0|0|sausenebb
 549676|Jays|3|JaysJsp|jays4jays
@@ -2777,3 +2777,4 @@
 291476|Monze|0|0|JSvenningsen
 466256|thinkaboutit|0|wywhyun|hyunjoong
 285494|yangx817|6|0|0
+607078|Frie|0|FrieJsP|0
