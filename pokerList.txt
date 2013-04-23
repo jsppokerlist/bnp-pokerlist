@@ -1824,7 +1824,7 @@
 667089|Opioid|6|0|0
 286736|ork_diablo|6|0|0
 280778|orravin|6|0|0
-573646|osg_returns|6|0|0
+573646|osg_returns|4|0|0
 819422|Ostegolectric|6|0|0
 639782|Ostynn|6|0|0
 821415|otherwise|6|0|0
@@ -2780,3 +2780,4 @@
 466256|thinkaboutit|0|wywhyun|hyunjoong
 285494|yangx817|6|0|0
 607078|Frie|0|FrieJsP|0
+594844|xxsinxx|0|0|0
