@@ -29,7 +29,7 @@
 223396|infinity.|0|infinityjsp|inzinity
 211625|magicbouba|1|magicboubajsp|magicbouba
 208601|MaryJuana|0|Luckb0xx|luckb0xx
-603646|Nevada|3|Nevadad2jsp|nevada@jsp
+603646|Nevada|0|Nevadad2jsp|nevada@jsp
 586352|Prominence|3|diablolord21@yahoo.com|relin2
 400050|Royal3|3|royal3xx|goodroy
 672203|Scissors|3|sciss140|Scissorsjsp
