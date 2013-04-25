@@ -2562,7 +2562,7 @@
 559008|Pumpkin_King|0|0|jsppumpkin
 219056|Mindfield|5|0|Dev1337
 612789|Depdep|0|depdepjsp|DepDepJsp
-173956|karmo29|0|0|karmo29
+173956|karmo29|0|karmo29jsp|karmo29
 552838|freddy92|0|Fredddy992|j0keriswild
 314481|Lord_of_war|0|0|the_trial
 268952|i_play_nude|0|boompie77@hotmail.com|wl-suckout
@@ -2773,8 +2773,9 @@
 627650|myusherbob21|6|0|0
 416437|harr1s|0|harr1sjsp|0
 492096|SweetDisposition|0|mizzhuzzah|0
-893596|SexXo|0|0|VILLA_D2JSP
+893596|SexXo|0|villad2jsp|Sexxo_jsp
 267873|project_tho|6|0|0
+581647|kabzel|0|kabzeld2jsp|0
 341753|Grafjoker|0|0|rijstplukker
 291476|Monze|0|0|JSvenningsen
 466256|thinkaboutit|0|wywhyun|hyunjoong
@@ -2784,3 +2785,8 @@
 946509|CzechRepublic|0|czechjsp|luckboxie
 724205|onision|6|0|0
 278121|cail|6|0|0
+439160|aboxofwater|0|aboxjsp|aboxjsp
+283350|lost_afi|0|lostjsp1@yahoo.com|0
+774200|gnav|0|Sebbeped@hotmail.com|Gnav@JSP
+982593|yoitztuan|0|yoitztuanjsp|0
+864890|filipono|0|FiliponoJSP|0
