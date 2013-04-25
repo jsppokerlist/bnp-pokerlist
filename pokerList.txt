@@ -1293,7 +1293,7 @@
 532959|exzirtyourass|6|0|0
 535838|Ezel|6|0|0
 679897|eztrader1001|6|0|0
-887371|f3inz|6|0|0
+887371|f3inz|4|0|0
 248117|fabolicious|6|0|0
 526949|Fabrik|6|0|0
 410311|Fabulous|6|0|0
@@ -2003,7 +2003,7 @@
 199435|santu|6|0|0
 588328|Sarahh|6|0|0
 688869|saratogas|6|0|0
-454567|Sasasa137|6|0|0
+454567|Sasasa137|4|0|0
 656890|Satanic1000|6|0|0
 539246|Saveup4_ladder|6|0|0
 520459|Scaface|6|0|0
