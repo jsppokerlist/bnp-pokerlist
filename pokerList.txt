@@ -2479,7 +2479,7 @@
 467776|That|0|0|JayWSOP
 753854|Bwerner17|0|0|Bwerner17
 324330|C1134911|6|c1134911|C1134911c
-912666|BloodFamily|0|0|EzScoop
+912666|BloodFamily|0|Wastedbones@hotmail.com|EzScoop
 163685|Chaban|0|0|ChabanJsp
 742135|TheJPeter123|0|0|Click-93
 519319|Clowdy|0|0|Clowdzor
@@ -2794,3 +2794,4 @@
 774412|ForeverStrong|0|nenow1912@abv.bg|0
 990749|letsplaygames|5|0|0
 618996|keanhasu|0|keanhasu|0
+842815|Bidderdoo|0|BidderdooJsp@hotmail.com|JspBidderdoo
