@@ -21,7 +21,7 @@
 340070|Bl00dy|0|Akocur91|Akocur92
 348038|Champ|3|champjsp|ocsaiF
 442860|Dream_5241|3|MarioFirebal|mariofirebal
-628716|F150|5|F150isLegend|PlsSumDiesel
+628716|F150|5|F150Jsp|PlsSumDiesel
 373854|Gfgrice|0|gfgrice90|gfgrice90
 544557|Habit|3|HabitJsp|k0do
 435424|HansDenSvans|3|HansDenSvans|HansDenSvans
