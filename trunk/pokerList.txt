@@ -2730,7 +2730,7 @@
 946209|wtk300|0|wtk300|wtk300
 465986|Fiddy|0|0|Fiddyjsp
 195507|DeDe_TrAdEr|6|0|0
-455429|Krip|0|pauld772|Krip772
+455429|Krip|4|pauld772|Krip772
 977405|milkmanmom|6|0|0
 986192|hedgeyhog|6|0|0
 593530|Jerico|0|imfreezingland@gmail.com|0
@@ -2803,3 +2803,4 @@
 607938|DoNuTz|0|donutzjsp|0
 424962|v4mpir3|0|estambul89|estambul89
 918064|TwistedFate|0|TwistedFateJsp1|0
+991691|godlybeastsin|6|0|0
