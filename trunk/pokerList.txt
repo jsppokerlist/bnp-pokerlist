@@ -128,7 +128,7 @@
 299701|Dead|4|0|0
 684326|Dears|4|0|0
 298504|Deathbizkit667|4|0|0
-458786|Derrickboh|4|Derrickbohjsp|0
+458786|Derrickboh|4|Derrickbohjsp|Derrickboh
 395573|DexstaA|4|0|0
 758229|Diaper|4|0|0
 815176|Died|4|0|0
@@ -2528,7 +2528,7 @@
 961343|boymonkeywonder|0|0|monkeyboyjsp
 930706|Noah505050|0|noah505050@yahoo.com|Shipitjsp
 914750|Shaneto1992|0|0|Shaneto19922
-228812|Seifersan|0|0|Seifersan
+228812|Seifersan|0|seifersan5|Seifersan
 526128|Mkant|0|0|Scryed69
 642028|SaintlyDevil|0|0|SaintlyDevil
 276182|Ruiz|0|0|Ruizar1234
