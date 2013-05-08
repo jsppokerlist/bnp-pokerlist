@@ -1,3 +1,4 @@
+317029|y_roc140|0|Coryparkes@hotmail.com|cory140
 833435|Brochacho|0|BrochachoJSP|BrochachoJSP
 868880|Darrenious9106|0|Darrenious9106d2jsp|Darrenious
 936700|Menacebros|0|Menacebrosd2jsp|Corpsjsp
@@ -116,7 +117,6 @@
 228396|Fokse|3|FokseJSP|FoookseClub
 627650|myusherbob21|6|0|0
 293060|Linez|6|0|0
-317029|y_roc140|0|0|cory140
 403925|Oral|0|oraljsp|littlewinggg
 980902|emma_stone|4|0|jspepicattac
 984056|Waterboat|5|WaterboyJsp|Waterboatjsp
