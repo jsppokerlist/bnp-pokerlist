@@ -1,3 +1,4 @@
+348038|Champ|0|champjsp|ocsaiF
 494309|MakShade|0|Makshadejsp|makshade
 438252|Mambaa|4|Mambaa18|Mambaa1337
 511122|mark_16|5|0|0
@@ -482,7 +483,6 @@
 473645|vacuitate|0|vacuitate@gmail.com|0
 530011|Genetics|3|GeneticsJsp|geneticsjsp
 660004|JoeOak|4|0|0
-348038|Champ|3|champjsp|ocsaiF
 535481|pastafarian|0|0|pastajsp
 229430|layne|0|0|insaneman211
 385924|zmauls|0|0|Maulkat
