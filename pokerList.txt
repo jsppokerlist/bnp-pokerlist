@@ -1,3 +1,7 @@
+831949|MFuchs|4|0|0
+800278|lVl4rkStyle|4|0|0
+511122|mark_16|4|0|0
+955165|xPGen|4|0|0
 544910|Duss|4|0|0
 551853|Respond|4|bairdc82@yahoo.com|Respondjsp
 816482|youknowmesonic|3|youknowmesonic@yahoo.com|Sonic@Jsp
@@ -46,7 +50,6 @@
 635984|Kingcloud9|0|0|Kingcloud9
 922560|itsTerminology|6|0|0
 438252|Mambaa|4|Mambaa18|Mambaa1337
-511122|mark_16|5|0|0
 930956|Vaginas|6|ZombieAlcatraz|Br@zzers
 101272|TweakBF|6|0|TedinBarrie
 347812|ICU|4|yourjsp|0
@@ -100,8 +103,6 @@
 992378|RiseOfThePhoenix|0|RiseOfThePhoenix101|RiseJSP
 607743|whatupmypeeps|0|chiefs7122@gmail.com|peeps712
 417301|Join|0|ajw1986107|joinD2jsp
-955165|xPGen|5|0|0
-800278|lVl4rkStyle|5|0|0
 940512|kokocsu|6|0|0
 593729|Laur3nt|0|Laur3ntJsp|Laur3nt
 398482|angelCsL|5|0|0
@@ -2258,7 +2259,6 @@
 584778|Million|5|0|0
 699051|migdiablolod|5|0|0
 665564|michealjordan|5|0|0
-831949|MFuchs|5|0|0
 630768|Metabolism|5|0|0
 388012|merlox01|5|0|0
 456921|mercyxx|5|0|0
