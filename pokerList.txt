@@ -1,4 +1,4 @@
-713266|xrapha|6|0|0
+713266|xrapha|4|0|0
 570797|Haxs|4|haxsjsp|0
 228396|Fokse|3|FokseJSP|fokse77
 495857|generate|4|0|0
