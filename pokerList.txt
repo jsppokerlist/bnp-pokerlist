@@ -1,3 +1,4 @@
+544910|Duss|4|0|0
 551853|Respond|4|bairdc82@yahoo.com|Respondjsp
 816482|youknowmesonic|3|youknowmesonic@yahoo.com|Sonic@Jsp
 366566|Stolem|3|StolemJsp|StolemJsp
@@ -704,7 +705,6 @@
 363121|Shang_Tsung|0|davide1193|0
 185507|therealinsolent|6|0|0
 692966|Tacticalassassin|0|Implanestars|0
-544910|Duss|5|0|0
 772538|iGankst4re|5|0|0
 965803|KnowBetta|6|0|0
 967290|Thebushman|0|pixelzftw|0
