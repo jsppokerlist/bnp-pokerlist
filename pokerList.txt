@@ -1,4 +1,4 @@
-495857|generate|6|0|0
+495857|generate|4|0|0
 348326|obisent|2|Anrchy259|obisent
 713266|xrapha|4|0|0
 570797|Haxs|4|haxsjsp|0
