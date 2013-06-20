@@ -1,4 +1,4 @@
-968118|danneman|6|0|0
+968118|danneman|4|0|0
 680594|sorinod|0|SorinOD|SorinOD
 495857|generate|5|0|0
 447508|fizzpower|6|0|0
