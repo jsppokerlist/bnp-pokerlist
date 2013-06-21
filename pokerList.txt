@@ -1,3 +1,11 @@
+854762|JWill315|4|0|0
+790061|Bakaara|4|0|0
+820372|kmann|4|0|0
+899145|Arbitrage|4|0|0
+836993|Arbitraged|4|0|0
+774868|PoD_Clan|4|0|0
+541991|ZEAL0RDEAL|4|0|0
+515424|Definite|4|0|0
 635884|PiK|4|0|0
 573646|osg_returns|4|0|0
 447508|fizzpower|4|0|0
@@ -11,9 +19,6 @@
 635984|Rack|0|0|Rack@jsp
 228396|Fokse|3|FokseJSP|fokse77
 233725|TkM|2|tkmjsp|tyjaye
-515424|Definite|4|0|0
-541991|ZEAL0RDEAL|4|0|0
-774868|PoD_Clan|4|0|0
 525410|lzjpage|0|0|0
 747694|masterme|6|0|0
 541684|LOLYOUTHINKYOURBETTERTHANBRANDON|0|0|0
@@ -2313,7 +2318,6 @@
 443440|Kock|5|0|0
 510498|Marcusd0|0|Marcusd92|0
 822019|Knive|5|0|0
-820372|kmann|5|0|0
 592867|kir_am|5|0|0
 759418|KingofJsp|5|0|0
 424869|kingcrown1|5|0|0
@@ -2326,7 +2330,6 @@
 347509|Kapa|5|0|0
 347583|kaaba|5|0|0
 761779|k3vy|5|0|0
-854762|JWill315|5|0|0
 434843|jusky|5|0|0
 786907|JspRuler|5|0|0
 370684|jrak321|5|0|0
@@ -2490,7 +2493,6 @@
 407317|Batman696|5|0|0
 561511|BatJoro|5|0|0
 811935|BallinStatus|5|0|0
-790061|Bakaara|5|0|0
 336340|Baguba|5|0|0
 64131|bago|5|0|0
 594220|BadBeat|5|0|0
@@ -2506,8 +2508,6 @@
 400497|Artest|5|0|0
 403076|arh02|5|0|0
 322361|archaw|5|0|0
-836993|Arbitraged|5|0|0
-899145|Arbitrage|5|0|0
 472464|ApiN|5|0|0
 427605|antiyoux|5|0|0
 296159|Andria|5|0|0
