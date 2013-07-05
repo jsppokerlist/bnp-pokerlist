@@ -1,3 +1,4 @@
+603646|Nevada|0|0|Nevada@jsp
 1006987|rec0ver|6|0|0
 999548|mephlab|6|0|0
 310936|xpac_o|0|0|0
@@ -154,7 +155,6 @@
 726657|XSmiterXT|0|smiterjsp|smiterjsp
 719915|hydrogod|0|blade015|pp420
 992279|Acesnspades|4|Prodonkyjsp|Prodonkyjsp
-603646|Nevada|0|0|nevada@jsp
 884150|Ban|0|Banjsp|0
 58961|Stillfly|0|Hawstin|aimarty
 569453|EliteGeek|5|0|0
