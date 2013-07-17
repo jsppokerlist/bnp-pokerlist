@@ -1,3 +1,4 @@
+947921|EconomicRuiner|6|0|Economicruin
 1001170|donkking|5|0|0
 165011|Wopsey|0|jspwopsey|Eulogizer
 992640|dragon7185|6|0|0
@@ -708,7 +709,6 @@
 337745|jonathon|0|0|jonwalton12
 392188|Omegared07|0|0|johnyxblaze
 217268|ThirtyTwo|0|0|Elmira570
-947921|EconomicRuiner|0|0|Economicruin
 550270|Clicquot|4|fattycalidonna|jdawggg33
 810164|Dynasty_d|0|0|Dynasty_djsp
 568760|pro_baby|4|0|DollyRama
