@@ -1,3 +1,5 @@
+644799|DiabolicDeath|4|0|0
+694537|eldunari|0|0|0
 551139|schijtborrel3|0|0|0
 300927|Seejay|4|0|0
 998517|suikodenpsx|6|0|0
@@ -1883,7 +1885,6 @@
 854057|Divergent|6|0|0
 280317|DIR|6|0|0
 368761|dingdongding|6|0|0
-644799|DiabolicDeath|6|0|0
 321399|DiabloThree|6|0|0
 590709|DiabloIIII|6|0|0
 512859|diablofury666|6|0|0
