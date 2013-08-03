@@ -1,3 +1,4 @@
+500582|Chill|1|ChillJsp|Chilljsp
 461545|ichigo|0|XxXEliteSoldier|KenpachiZ104
 694537|eldunari|0|Elvensmite@gmail.com|Elvensmite
 644799|DiabolicDeath|4|0|0
@@ -134,7 +135,6 @@
 339731|flatfacee|5|Flatfacee|Flatfacee
 998824|quilted|6|0|0
 484808|matt2391|4|0|0
-500582|Chill|2|ChillJsp|Chilljsp
 493934|imintheforest|4|0|0
 653433|th4l|6|0|0
 990614|ambercook|5|0|0
