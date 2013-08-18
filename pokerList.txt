@@ -1,4 +1,4 @@
-336236|jezzadl|5|JezzaJsp|jezzadl
+336236|jezzadl|5|0|0
 989097|cidao|5|0|0
 440882|ncm|5|0|0
 982729|flairs56|6|0|0
