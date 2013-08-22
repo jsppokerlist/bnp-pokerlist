@@ -1,8 +1,8 @@
+228396|Fokse|3|FokseJSP|FokseJSP
 184427|grams|6|0|0
 913903|wtyczka|5|0|0
 350864|wtyka|5|0|0
 416393|Whiskers|1|WhiskersJSP|WhiskersJSP
-228396|Fokse|3|FokseJSP|fokse77
 992640|cold1992|4|0|0
 336236|jezzadl|5|0|0
 989097|cidao|5|0|0
