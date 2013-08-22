@@ -1,3 +1,4 @@
+184427|grams|0|0|0
 913903|wtyczka|5|0|0
 350864|wtyka|5|0|0
 416393|Whiskers|1|WhiskersJSP|WhiskersJSP
