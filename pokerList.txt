@@ -1,3 +1,4 @@
+574719|jaychesney|0|Jay.Chesney|Jnasty3325
 396377|TryPump|6|0|0
 235292|kingslayer99|0|thekingslayer99|0
 979382|hypeitup|6|0|0
@@ -100,7 +101,6 @@
 554799|Magistick|4|0|0
 696531|wolf19941|6|0|0
 573646|tippman|5|0|0
-574719|jaychesney|0|JayChesney|Jnasty3325
 156834|GoD-Viper|0|nicemind0|nicemind
 471616|weed123|0|x2native|MNative
 544910|Duss|4|DussJsp|DussJsp
