@@ -1,3 +1,4 @@
+455429|Krip|4|krip.jsp|Krip772
 993594|denglinlin|4|0|0
 763454|Grisha|4|0|0
 631753|Moofy|1|Moof140|Moof140
@@ -260,7 +261,6 @@
 943149|ChronicKush|6|0|0
 407514|75064|0|0|iCallToRiver
 982593|yoitztuan|0|yoitztuanjsp|yoitztuan
-455429|Krip|4|pauld772|Krip772
 991691|godlybeastsin|6|0|0
 458786|Derrickboh|4|Derrickbohjsp|Derrickboh
 918064|TwistedFate|0|TwistedFateJsp1|0
