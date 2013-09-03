@@ -1,3 +1,5 @@
+639148|Aid|4|0|0
+958705|atla|4|0|0
 835290|Seacow|4|0|0
 944735|dylanbarber420|0|DbarbzSwag|dylanBarber
 344838|RistVaLL|0|0|RistVaLL
@@ -1323,7 +1325,6 @@
 735544|9mm|5|0|0
 436543|aasIIX|5|0|0
 583117|Accept_Pain|5|0|0
-639148|Aid|5|0|0
 734515|Alcon|5|0|0
 821856|alfredo123|5|0|0
 547411|PinkBitz|6|0|0
@@ -2545,7 +2546,6 @@
 593157|Cheating|5|0|0
 764223|Chachipe|5|0|0
 294024|cezzeman|5|0|0
-958705|CatGoesBoom|5|0|0
 386719|Catapult_master|5|0|0
 852123|Catanha|5|0|0
 853458|Cashout72|5|0|0
