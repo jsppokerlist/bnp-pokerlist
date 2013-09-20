@@ -1,3 +1,6 @@
+235292|kingslayer99|0|thekingslayer99|kirbywang
+1003863|gshore|0|0|gshore
+944735|dylanbarber420|0|DbarbzSwag|Dbarbs
 1017519|nicholasrage|0|nicolasrage2@gmail.com|nicolasrage2
 333453|drakwen|0|piratehouse2k3|Drakwen
 408758|roger1991|0|roger1991.jsp|roger1991jsp
@@ -31,7 +34,6 @@
 639148|Aid|4|0|0
 958705|atla|4|0|0
 835290|Seacow|4|0|0
-944735|dylanbarber420|0|DbarbzSwag|dylanBarber
 344838|RistVaLL|0|0|RistVaLL
 993594|denglinlin|4|0|0
 763454|Grisha|4|0|0
@@ -46,7 +48,6 @@
 689917|lolly10|5|0|0
 574719|jaychesney|0|Jay.Chesney|Jnasty3325
 396377|TryPump|6|0|0
-235292|kingslayer99|0|thekingslayer99|0
 979382|hypeitup|6|0|0
 194154|vandflaske|5|0|0
 310329|supermfer|5|0|0
