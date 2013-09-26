@@ -1,3 +1,4 @@
+408758|roger1991|0|roger1991jsp@gmail.com|roger1991jsp
 1018823|osu_tryhard|6|0|0
 1021881|Monreal|5|0|0
 1016959|lerbatov|6|0|0
@@ -10,7 +11,6 @@
 944735|dylanbarber420|0|DbarbzSwag|Dbarbs
 1017519|nicholasrage|0|nicolasrage2@gmail.com|nicolasrage2
 333453|drakwen|0|piratehouse2k3|Drakwen
-408758|roger1991|0|roger1991.jsp|roger1991jsp
 1020142|attackers|4|0|0
 495670|wyt_chocolat|6|0|0
 512785|entrails|6|0|0
