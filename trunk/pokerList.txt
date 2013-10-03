@@ -1,3 +1,5 @@
+1023603|FarmaGanja|5|0|0
+1020142|attackers|5|0|0
 893596|SANTI_GTI|0|villad2jsp|Sexxo_jsp
 605910|PO0|4|0|0
 1022944|bef0re|4|0|0
@@ -19,7 +21,6 @@
 944735|dylanbarber420|0|DbarbzSwag|Dbarbs
 1017519|nicholasrage|0|nicolasrage2@gmail.com|nicolasrage2
 333453|drakwen|0|piratehouse2k3|Drakwen
-1020142|attackers|4|0|0
 495670|wyt_chocolat|6|0|0
 512785|entrails|6|0|0
 964876|yix|5|Yixjsp|esZudem Ta
