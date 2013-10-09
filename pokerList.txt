@@ -1,4 +1,4 @@
-365254|poison_bio|6|0|0
+365254|poison_bio|4|0|0
 1005834|BringTrades|4|0|0
 1018888|Gebb|0|Gebbjsp|0
 1023603|FarmaGanja|5|0|0
