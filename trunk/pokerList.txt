@@ -1,3 +1,6 @@
+787640|AshaMed|1|ashamedjsp|ashaMedd
+481971|TRD|3|crfjsp|crfjsp
+402173|wiken|3|wikenjsp|noobenirl
 469995|phok|0|0|0
 365254|poison_bio|4|0|0
 1005834|BringTrades|4|0|0
@@ -265,7 +268,6 @@
 453194|doganoz|4|degermetzidis@gmail.com|dogan0z
 460232|Sex|0|SexShido|0
 777344|iTilt|0|0|trololol6969
-402173|wiken|0|wikenjsp|noobenirl
 291797|Daniek|0|mdaniek@gmail.com|DoperMJ
 312977|Guap|0|cody10052|cody10052
 989403|zooyorkk|0|Zooyorkk@hotmail.com|zooyorkk
@@ -743,7 +745,6 @@
 308284|Doomchaser|0|doomchaser1|Tiledave
 433691|Fome|0|FomeATjsp|FomeATjsp
 817981|Poncho|0|0|0
-787640|AshaMed|3|ashamedjsp|ashaMedd
 274360|Trispec|3|Superspooky2005|trispec
 549309|infallibleleo|3|infallibleleo|infalliblele
 808473|ConnectionInterrupted|4|0|C.I jsp
@@ -849,7 +850,6 @@
 556356|Pounce|5|0|0
 720092|the_clawww|0|theclawwwjsp|theclawz6
 305906|umade|1|whysomade|InzaiT
-481971|TRD|0|crfjsp|crfjsp
 845565|thecops|0|superspooky2005|0
 389970|Boi|0|BoiJsp|Boijspp
 734064|MilitaryMinded|0|v0yles@yahoo.com|ChuckMoves
