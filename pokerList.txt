@@ -1,3 +1,6 @@
+344838|RistVaLL|0|ristvalljsp|RistVaLL
+757572|Invictum|0|Mord88|Invictum666
+1017403|Epitek|0|Epitek69|0
 849578|Roleau|0|rouleau117|rouleau117
 785406|xZekey|0|vmzeke|vmzeke
 958497|owntpwnt|0|oWn1pWn1|Owntpwnt
@@ -81,7 +84,6 @@
 639148|Aid|4|0|0
 958705|atla|4|0|0
 835290|Seacow|4|0|0
-344838|RistVaLL|0|0|RistVaLL
 993594|denglinlin|4|0|0
 763454|Grisha|4|0|0
 631753|Moofy|1|Moof140|Moof140
@@ -134,7 +136,6 @@
 377959|mayerling|0|tyg1016@gmail.com|Mayerling220
 171966|matthew_b|0|0|Matthew_i3
 955165|xPGen|4|xPGen1992|ManuScridon
-757572|Invictum|0|0|Invictum666
 1012361|Alpha0megaz|6|0|0
 500582|Chill|1|ChillJsp|Chilljsp
 461545|ichigo|0|XxXEliteSoldier|KenpachiZ104
