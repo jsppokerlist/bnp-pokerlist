@@ -1,3 +1,4 @@
+1016990|KnightsTemplar1988|4|0|0
 774200|gnav|4|Sebbeped@hotmail.com|Gnav@JSP
 898154|RyanGuy01|0|0|Ryanguy01jsp
 787640|AshaMed|0|ashamedjsp|ashaMedd
@@ -64,7 +65,6 @@
 512785|entrails|6|0|0
 964876|yix|5|Yixjsp|esZudem Ta
 211625|magicbouba|1|magicboubajsp|magicbouba
-1016990|KnightsTemplar1988|6|0|0
 1018010|hokum|6|0|0
 455429|Chuu|4|krip.jsp|Krip772
 406739|avalvr|4|0|0
