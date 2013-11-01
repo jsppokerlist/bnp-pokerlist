@@ -1,3 +1,4 @@
+1022944|bef0re|5|0|0
 533885|Lville|4|0|0
 1011056|StepMaster|4|stepmaster55|stepmasterr
 1016990|KnightsTemplar1988|4|0|0
@@ -44,7 +45,6 @@
 1020142|attackers|5|0|0
 893596|SANTI_GTI|0|villad2jsp|Sexxo_jsp
 605910|PO0|4|0|0
-1022944|bef0re|4|0|0
 987761|darkkillz|4|0|0
 235196|Resilience|0|ResilienceJSP|PlsSumRiver
 658570|Zilyn|4|0|0
