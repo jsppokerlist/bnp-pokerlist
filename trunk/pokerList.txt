@@ -1,3 +1,5 @@
+896535|B18|5|0|0
+1004895|remington19|5|0|0
 208888|Archerr|0|archerr009|archer009
 852717|WinDForce87|0|haeuser.r@web.de|windforce999
 872199|do_NaUKI|0|naukid2jsp@gmail.com|Lovva
@@ -2972,7 +2974,6 @@
 764991|BelguimBastard|4|0|0
 434925|Bapesta22|4|0|0
 238453|bach288|4|0|0
-896535|B18|4|0|0
 404641|aznluc|4|0|0
 892595|AYB|4|0|0
 618072|awesomeauger|4|0|0
