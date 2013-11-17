@@ -1,4 +1,5 @@
-223396|infinity.|0|infinityjsp|inzinity
+223396|infinity.|3|infinityjsp|inzinity
+715514|Suit|0|zurichjsp|zurichjsp
 315962|bristo|4|0|0
 999992|Legitd2player4ife|0|cheesewedge111|hope_ender1
 807793|Boxer1337|4|0|0
@@ -765,7 +766,6 @@
 382978|hurlyz|0|hurlyz|hurlyz
 745548|amero|0|ameroski|amerojsp
 217697|Garnier|4|0|GarnierJsp
-715514|Suit|2|zurichjsp|zurichjsp
 128272|sarge799|2|xdrek1|sarge799
 446794|Chake|0|chake17|MarcoA12
 436197|GunslingerOfOld|0|silverwristblade|tgunslingert
