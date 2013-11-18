@@ -1,4 +1,4 @@
-789651|urban_edge|0|0|0
+789651|urban_edge|0|urbanedge@abv.bg|0
 1024883|funrun213|6|0|0
 223396|infinity.|3|infinityjsp|inzinity
 715514|Suit|0|zurichjsp|zurichjsp
