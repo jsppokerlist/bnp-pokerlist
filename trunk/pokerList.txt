@@ -1,3 +1,14 @@
+798239|snoopdogg|6|0|0
+446794|Chake|0|chake17|MarcoA12
+1002039|godlynations|0|0|0
+1002492|leadshower|0|0|0
+828619|avanglion|4|0|0
+447136|imPRO|6|0|0
+1025028|jaq1337|6|0|0
+476582|ben_davis|5|ben_davis9@yahoo.com|ben_davis17
+1028275|torntodeath|4|0|0
+847127|Haril|6|0|gummiesnacks
+989844|gummiesnacks|6|0|0
 208888|Archerr|5|archerr009|archer009
 426122|Cask|4|Neff4554|Neff55
 555250|senteo187|0|Senteo187jsp|SenTeo187
@@ -429,7 +440,6 @@
 158599|seppel123|3|seppel123jsp|seppel123jsp
 944211|ChillenEast|4|N.shriver1@yahoo.com|Lucky#7
 980948|HighSince87|0| k_fisk@yahoo.com|K_Fisk
-476582|ben_davis|4|ben_davis9@yahoo.com|ben_davis17
 923769|tehmorbid|0|teh.morbid|tehmorbidjsp
 984399|Saladfingerz|0|sicksaladfingerz|Fingersalad
 924684|poaky|0|poaky.jsp|0
@@ -456,7 +466,6 @@
 340933|Haganrich|0|HaggiJSP|Haganrich
 435962|TheBlackHole|0|Theblackhole1766|Theblackhol
 552838|freddy92|0|Fredddy992|j0keriswild
-847127|Haril_Hurst|0|0|Hurstharil20
 933333|Prizefighter|0|0|PrizefighterFG
 562800|SsS|0|0|Mosc0w
 583690|africa420|5|0|0
@@ -770,7 +779,6 @@
 745548|amero|0|ameroski|amerojsp
 217697|Garnier|4|0|GarnierJsp
 128272|sarge799|2|xdrek1|sarge799
-446794|Chake|0|chake17|MarcoA12
 436197|GunslingerOfOld|0|silverwristblade|tgunslingert
 409408|inuitboy|0|JspHustla|friendlyinou
 503061|GsX827|4|GsX827|GsX82788
