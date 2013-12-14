@@ -1,3 +1,4 @@
+416393|Whiskers|2|WhiskersJSP|WhiskersJSP
 1031679|PuertoRico|4|0|0
 455429|Chuu|4|krip.jsp|Krip772
 270720|larry420|4|0|0
@@ -150,7 +151,6 @@
 228396|Fokse|3|Foksejsp|Fokse77
 913903|wtyczka|5|0|0
 350864|wtyka|5|0|0
-416393|Whiskers|1|WhiskersJSP|WhiskersJSP
 992640|cold1992|4|0|0
 336236|jezzadl|5|0|0
 989097|cidao|5|0|0
