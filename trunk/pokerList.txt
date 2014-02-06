@@ -1,4 +1,5 @@
-886136|Undo|0|UndoJsp|0
+398269|GODBAAL|0|godbaaljsp|godbaal
+886136|Undo|0|UndoJsp|UndoJsp
 190223|djduck|0|djducknoc|duckah
 423785|Lone1987|0|ceceman615|Lone1987
 892825|Dracule_Mihawk|0|d.mihawk|drac_mihawk
