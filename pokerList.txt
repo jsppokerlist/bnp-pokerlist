@@ -1,3 +1,5 @@
+790948|Surrender|0|xxaidenxxrocksxx|SurrenderJSP
+1021230|IceChill|0|StoneSniper302|StoneSniper
 297425|shadowsdark|4|Shadowsdarkjspp|0
 1022985|Zero501|0|Zero501sk|Zero501D2
 300723|Luscious|4|LusciousJSP|LusciousJSP
@@ -793,7 +795,6 @@
 276620|Killer_Pollo|0|0|Tronchatodo
 527007|Ekart|0|0|lowkiller700
 545722|Knobkerrie|4|0|0
-790948|Surrender|0|0|Javadaz
 477092|eighty6|0|0|eighty6
 211440|Diddler|6|0|0
 866212|PStacks|6|0|0
