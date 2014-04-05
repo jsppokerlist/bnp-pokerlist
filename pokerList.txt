@@ -1,3 +1,5 @@
+297425|shadowsdark|4|Shadowsdarkjspp|0
+1022985|Zero501|0|Zero501sk|Zero501D2
 300723|Luscious|4|LusciousJSP|LusciousJSP
 771388|s4fjoker|0|s4fjokerjsp|Krazykillah
 1040083|NipFung|0|NipFungjsp|NipFung
@@ -16,7 +18,6 @@
 1042236|Irilia|6|0|0
 944735|Dbarbs|5|DbarbsJSP@Yahoo.com|Dbarbs
 184427|grams|4|0|0
-297425|shadowsdark|4|0|0
 1040324|Yet_High|6|0|0
 1030535|Bel0ved|6|0|0
 548810|Boizudao|6|0|0
