@@ -1,3 +1,4 @@
+530011|Genetics|3|GeneticsJsp|leftyman06
 579359|SnowmanA1|3|Snowmanjg8@yahoo.com|Snowman A1
 228396|Fokse|1|Foksejsp|Fokse77
 1042309|vaporizzer|6|0|0
@@ -807,7 +808,6 @@
 211440|Diddler|6|0|0
 866212|PStacks|6|0|0
 473645|vacuitate|0|vacuitate@gmail.com|0
-530011|Genetics|3|GeneticsJsp|geneticsjsp
 660004|JoeOak|4|0|0
 535481|pastafarian|0|0|pastajsp
 385924|zmauls|0|0|Maulkat
