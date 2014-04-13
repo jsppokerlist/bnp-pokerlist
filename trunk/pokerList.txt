@@ -1,3 +1,5 @@
+579359|SnowmanA1|3|Snowmanjg8@yahoo.com|Snowman A1
+228396|Fokse|1|Foksejsp|Fokse77
 1042309|vaporizzer|6|0|0
 1040324|Yet_High|4|0|0
 301234|Fromage|0|kimololololol@Live.ca|0
@@ -214,7 +216,6 @@
 47427|chazen|5|0|0
 622688|JostiChris|4|0|0
 817988|el_bothd|4|0|0
-228396|Fokse|3|Foksejsp|Fokse77
 913903|wtyczka|5|0|0
 350864|wtyka|5|0|0
 992640|cold1992|4|0|0
@@ -952,7 +953,6 @@
 530355|DS9|0|DS9jsp|DS9jsp
 544218|Wish|4|0|0
 328289|aznsupaman408|0|aznsupaman408|0
-579359|SnowmanA1|0|Snowmanjg8@yahoo.com|Snowman A1
 556356|Pounce|5|0|0
 720092|the_clawww|0|theclawwwjsp|theclawz6
 305906|umade|1|whysomade|InzaiT
