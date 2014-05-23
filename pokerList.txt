@@ -1,3 +1,6 @@
+996013|bbanee|0|wesboyer@gmail.com|0
+980409|Japogs|0|JapogsJSP|Japogs
+1014025|Tamagachi|4|tamajsp|paulnjaguar
 785129|Claymen|0|Claymen131|ClaymenJSP
 591552|Sandshrew|0|SandshrewJSP|0
 309798|1shot1kill|0|koso30@centrum.sk|MadCalling
@@ -12,7 +15,6 @@
 944332|SilentMetalcore|6|0|0
 1033161|AceOfSpad3s|4|0|0
 1040257|CanadianEh|6|0|0
-1014025|Tamagachi|4|0|0
 1031510|Kevyn|6|0|0
 233725|TkM|0|tkmjsp|tyjaye
 1044639|ProudPartner|6|0|0
