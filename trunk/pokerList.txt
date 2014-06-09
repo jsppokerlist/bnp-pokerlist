@@ -1,3 +1,4 @@
+1014025|Tamagachi|5|tamajsp|paulnjaguar
 1045203|P3RFECT|6|0|0
 1027262|breikiki77|6|0|0
 1031064|Dr0k|4|0|0
@@ -8,7 +9,6 @@
 838799|MTTonly4me|0|Mttonly4meJsp|Mttonly4me
 996013|bbanee|0|wesboyer@gmail.com|bbanee
 980409|Japogs|0|JapogsJSP|Japogs
-1014025|Tamagachi|4|tamajsp|paulnjaguar
 785129|Claymen|0|Claymen131|ClaymenJSP
 591552|Sandshrew|0|SandshrewJSP|0
 309798|1shot1kill|0|koso30@centrum.sk|MadCalling
