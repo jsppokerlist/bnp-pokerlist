@@ -1,3 +1,4 @@
+340933|Haganrich|0|HaggiJSP|Haganrich
 402173|wiken|0|wikenjsp|noobenirl
 383090|Exanophobia|4|0|0
 1045374|Caprie|4|0|0
@@ -26,7 +27,6 @@
 443764|mirlyn|6|0|0
 416598|ceddd|3|ced_qclok@hotmail.com|0
 595914|Cheetos|3|cheetahjsp|cheetosjsp
-340933|Haganrich|3|HaggiJSP|Haganrich
 1046692|Chicagobird|6|0|0
 944332|SilentMetalcore|6|0|0
 1033161|AceOfSpad3s|4|0|0
