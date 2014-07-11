@@ -1,3 +1,4 @@
+228396|Fokse|2|Foksejsp|Fokse77
 1014025|Tamagachi|5|tamajsp|paulnjaguar
 533885|Lville|5|0|0
 1006283|Swagfull|6|0|0
@@ -49,7 +50,6 @@
 366685|Jam|0|dugimeister|0
 530011|Genetics|3|GeneticsJsp|leftyman06
 579359|SnowmanA1|3|Snowmanjg8@yahoo.com|Snowman A1
-228396|Fokse|1|Foksejsp|Fokse77
 1042309|vaporizzer|6|0|0
 1040324|Yet_High|4|0|0
 301234|Fromage|0|kimololololol@Live.ca|0
