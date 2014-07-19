@@ -1,3 +1,6 @@
+500807|Archer|0|d3athtoemo|0
+441404|Juhstun|0|xjuhstunx|0
+873656|Happen|0|GGhappen|Happen@jsp
 146882|ShadowsWill|0|DanielKovach1279@yahoo.com|DannyKovs
 1017344|macswag|0|Bausluffe@gmail.com|Macswag92
 974944|Bigdawg1243|0|jaevans75@gmail.com|BigdawgD3
@@ -736,7 +739,6 @@
 611584|104|0|0|dvp_dong
 418399|sausenebb|0|0|sausenebb
 483976|Akhenaton|4|ChoylesPoker|Choyles
-873656|Happen|0|Happend2jsp|Charles+Ev
 704135|Xenaphin|5|0|0
 389161|XoOoX|5|XoOoX353|XoOoX535
 638889|BonneChance|0|BonneChancejsp|risiko-sigi
