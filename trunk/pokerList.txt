@@ -1,4 +1,4 @@
-228396|Fokse|2|Foksejsp|Fokse77
+228396|Fokse|1|Foksejsp|Fokse77
 1048922|leftoverd2jsp|6|0|0
 556561|bjb6985|4|0|0
 1032142|pEclipse|5|0|0
