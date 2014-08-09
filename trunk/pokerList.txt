@@ -1,3 +1,4 @@
+416393|Whiskers|1|WhiskersJSP|WhiskersJSP
 443764|mirlyn|4|0|0
 1047911|OneXEnErgi|5|0|0
 727173|danni1990|6|0|0
@@ -140,7 +141,6 @@
 1028861|Nevada2|6|0|0
 1013569|WoDota|6|marko.dugonjic@rgn.hr|0
 982047|FgOnly|6|FgOnlyJSP|0
-416393|Whiskers|0|WhiskersJSP|WhiskersJSP
 805798|1fg|5|Lexani3@gmx.de|GUnitAx
 864890|filipono|0|FiliponoJSP|NajNifar
 1027640|Rebel_blood|5|Rebel_Blood|0
