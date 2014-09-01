@@ -1,4 +1,4 @@
-1052977|hiimDuriel|0|Hiim Duriel|DurielJSP
+1052977|hiimDuriel|0|0|DurielJSP
 1015041|SHREKT|0|SHREKTJSP|SHREKTJSP
 677624|Queef|4|flexdrag|0
 969483|Nearin|0|Nearind2jsp|Nearind2jsp
