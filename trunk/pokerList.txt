@@ -1,3 +1,5 @@
+635800|ColourOnes|0|0|0
+628585|Chevin|0|0|0
 860593|Galaeth|6|0|0
 103313|Lazy|4|ZycloneD2|ZycloneD2
 340933|Haganrich|3|HaggiJSP|Haganrich
@@ -22,8 +24,6 @@
 332997|ctrain2|0|Ctrain2Jsp@gmail.com|0
 971826|Finances|0|FinancesJsp|FinancesJsp
 659449|emiLyy|0|emiLyy92Jayspe|I Love BuTcH
-628585|Chevin|4|0|0
-635800|ColourOnes|4|0|0
 228396|Fokse|1|Foksejsp|Fokse77
 586891|GoTwins612|0|0|0
 1053694|G3t4F3|4|0|0
