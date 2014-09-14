@@ -1,3 +1,4 @@
+1024636|Friendly|4|0|0
 500582|Chill|2|ChillJsp|Chilljsp
 634460|ggBnP|4|0|0
 690030|prejiduice|6|0|0
@@ -6,7 +7,6 @@
 860593|Galaeth|4|0|0
 643768|GetRekt|4|0|0
 635800|ColourOnes|0|0|0
-1024636|Friendly|6|0|0
 628585|Chevin|0|0|0
 103313|Lazy|4|ZycloneD2|ZycloneD2
 340933|Haganrich|3|HaggiJSP|Haganrich
