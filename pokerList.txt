@@ -1,3 +1,4 @@
+500582|Chill|2|ChillJsp|Chilljsp
 634460|ggBnP|4|0|0
 690030|prejiduice|6|0|0
 1014025|Tamagachi|4|tamasorc|paulnjaguar
@@ -353,7 +354,6 @@
 377959|mayerling|0|tyg1016@gmail.com|Mayerling220
 171966|matthew_b|0|0|Matthew_i3
 1012361|Alpha0megaz|6|0|0
-500582|Chill|1|ChillJsp|Chilljsp
 461545|ichigo|0|XxXEliteSoldier|KenpachiZ104
 694537|eldunari|0|Elvensmite@gmail.com|Elvensmite
 644799|DiabolicDeath|4|0|0
