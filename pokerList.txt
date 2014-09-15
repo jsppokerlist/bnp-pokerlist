@@ -1,3 +1,4 @@
+643768|GetRekt|5|0|0
 634460|ggBnP|4|0|0
 1024636|Friendly|4|0|0
 500582|Chill|2|ChillJsp|Chilljsp
@@ -5,7 +6,6 @@
 1014025|Tamagachi|4|tamasorc|paulnjaguar
 732283|AAAAAAAAAAAAAAAAAAAAAAAAAAARRGHH|4|0|0
 860593|Galaeth|4|0|0
-643768|GetRekt|4|0|0
 635800|ColourOnes|0|0|0
 628585|Chevin|0|0|0
 103313|Lazy|4|ZycloneD2|ZycloneD2
