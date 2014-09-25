@@ -1,3 +1,4 @@
+103313|Lazy|0|ZycloneD2|ZycloneD2
 1053150|JourneyIntoTheAbyss|6|0|0
 677776|QcMonster|6|0|0
 900750|vagelas|0|wagner_gr@hotmail.com|0
@@ -15,7 +16,6 @@
 860593|Galaeth|4|0|0
 635800|ColourOnes|0|0|0
 628585|Chevin|0|0|0
-103313|Lazy|4|ZycloneD2|ZycloneD2
 340933|Haganrich|3|HaggiJSP|Haganrich
 317916|Flim|0|Flimjsp|0
 939180|cMF_Tom|0|cMF_Tom|cMFClan
