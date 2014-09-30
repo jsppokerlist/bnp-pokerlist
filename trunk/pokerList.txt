@@ -1,3 +1,4 @@
+940930|JCamp|4|JCampjsp|omglolriver
 309324|dubui|6|0|0
 579359|SnowmanA1|3|Snowmanjg8@yahoo.com|Snowman A1
 1052652|Bigsl1ck|6|0|0
@@ -86,7 +87,6 @@
 544922|fatalbunny|0|littlemanland2@yahoo.com|0
 628029|Rhino|0|Rhinojsp|0
 1040720|bigboy666|0|booneflip29@comcast.net|0
-940930|JCamp|6|JCampjsp|omglolriver
 458005|TheSojsRCuming|4|0|0
 392025|Quasi|3|namyellit|namyellit
 402173|wiken|3|wikenjsp|noobenirl
