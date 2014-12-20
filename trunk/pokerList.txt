@@ -1,3 +1,4 @@
+635771|frost_energy|4|0|0
 1015041|SHREKT|5|SHREKTJSP|SHREKTJSP
 1059744|WizLaugh|5|0|0
 689090|dizzylenegre|5|0|0
@@ -2083,7 +2084,6 @@
 305277|FrozenShadow|6|0|0
 767174|FrozenSc|6|0|0
 783569|Frotch420|6|0|0
-635771|frost_energy|6|0|0
 584446|From03to09|6|0|0
 584446|From03to09|6|0|0
 310351|French|6|0|0
