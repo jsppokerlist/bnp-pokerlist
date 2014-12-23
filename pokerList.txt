@@ -1,3 +1,4 @@
+340933|Haganrich|0|HaggiJSP|Haganrich
 1056273|gonzaga|6|0|0
 635771|frost_energy|4|0|0
 1015041|SHREKT|5|SHREKTJSP|SHREKTJSP
@@ -79,7 +80,6 @@
 1014025|Tamagachi|4|tamasorc|paulnjaguar
 635800|ColourOnes|0|0|0
 628585|Chevin|0|0|0
-340933|Haganrich|3|HaggiJSP|Haganrich
 317916|Flim|0|Flimjsp|0
 939180|cMF_Tom|0|cMF_Tom|cMFClan
 228254|Xeenyx|0|Xeenyx_Jsp|Hi im Xeenyx
