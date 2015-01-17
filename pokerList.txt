@@ -1,3 +1,4 @@
+957913|Rathran|4|0|0
 494309|SnowNigg3r|4|Makshadejsp|makshade
 392025|Quasi|5|namyellit|namyellit
 1061775|s2d2jsp|6|0|0
@@ -6,7 +7,6 @@
 1061904|DieLawn|6|0|0
 1017551|legendaryping|5|0|0
 595376|NihilistEric|4|0|0
-957913|Rathran|6|0|0
 227260|rspaid|4|0|0
 535681|nyborg|5|0|0
 826207|mhs98|4|0|0
