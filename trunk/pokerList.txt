@@ -1,3 +1,4 @@
+535681|nyborg|4|0|0
 873656|Happen|5|GGhappen|Happen@jsp
 1059581|panteradon|6|0|0
 579359|SnowmanA1|0|Snowmanjg8@yahoo.com|Snowman A1
@@ -14,7 +15,6 @@
 1017551|legendaryping|5|0|0
 595376|NihilistEric|4|0|0
 227260|rspaid|4|0|0
-535681|nyborg|5|0|0
 826207|mhs98|4|0|0
 359474|DrewS2|6|0|0
 340933|Haganrich|0|HaggiJSP|Haganrich
