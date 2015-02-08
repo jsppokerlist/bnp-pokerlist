@@ -1,3 +1,5 @@
+1006143|Panis|5|0|0
+1007075|m0lly|5|0|0
 1062690|MagicFinds|4|0|0
 535681|nyborg|4|0|0
 873656|Happen|5|GGhappen|Happen@jsp
