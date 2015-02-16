@@ -1,3 +1,6 @@
+732283|umm|0|0|0
+603646|Nevada|3|NevadaD2jsp|Nevada@jsp
+614068|Betrayed|3|Betrayedjsp|betrayedbyps
 402173|wiken|1|wikenjsp|noobenirl
 455429|Chuu|4|pauld772|Krip772
 416393|Whiskers|0|WhiskersJSP|WhiskersJSP
@@ -33,7 +36,6 @@
 1002401|Isildur2|6|0|0
 1059270|TheNewLegend|5|0|0
 785688|iyk91|6|0|0
-732283|umm|4|0|0
 1057035|Prue|5|PrueJSP|0
 331908|hellangel4525|6|0|0
 1052881|JMP|6|0|0
@@ -457,7 +459,6 @@
 1005537|williamsii|0|Mr.Sit|Bassball Bat
 876533|MiniWheat|5|0|Ahamielec
 654495|jeronix|0|0|JeroniXxxX
-603646|Nevada|0|NevadaD2jsp|Nevada@jsp
 1006987|rec0ver|6|0|0
 999548|mephlab|6|0|0
 310936|xpac_o|0|0|0
@@ -571,7 +572,6 @@
 312977|Guap|0|cody10052|cody10052
 989403|zooyorkk|0|Zooyorkk@hotmail.com|zooyorkk
 894711|yet_low|0|yetlow|yet_low
-614068|Betrayed|0|Betrayedjsp|betrayedbyps
 806853|bigworm|0|kcfeldt|kc421671
 317029|y_roc140|0|Coryparkes@hotmail.com|cory140
 833435|Brochacho|0|BrochachoJSP|BrochachoJSP
