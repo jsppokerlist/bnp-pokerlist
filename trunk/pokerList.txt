@@ -1,3 +1,4 @@
+402173|wiken|1|wikenjsp|noobenirl
 455429|Chuu|4|pauld772|Krip772
 416393|Whiskers|0|WhiskersJSP|WhiskersJSP
 1006143|Panis|5|0|0
@@ -152,7 +153,6 @@
 628029|Rhino|0|Rhinojsp|0
 1040720|bigboy666|0|booneflip29@comcast.net|0
 458005|TheSojsRCuming|4|0|0
-402173|wiken|3|wikenjsp|noobenirl
 1047754|andymolly|6|0|0
 533885|Lville|5|0|0
 1006283|Swagfull|6|0|0
