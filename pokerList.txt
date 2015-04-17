@@ -1,3 +1,4 @@
+481971|TRD|0|crfjsp|crfjsp
 816482|youknowmesonic|0|youknowmesonic@yahoo.com|Sonic@Jsp
 574035|Spankyhaze|0|Spanky_8169@yahoo.com|SpankyhazeLs
 416393|Whiskers|1|WhiskersJSP|WhiskersJSP
@@ -346,7 +347,6 @@
 348038|Champ|0|champjsp|ocsaiF
 579139|HOSTEDD|4|Donkstar777|Donkstar777
 1007367|halphas|6|0|0
-481971|TRD|3|crfjsp|crfjsp
 469995|phok|0|0|0
 365254|poison_bio|4|0|0
 1005834|BringTrades|4|0|0
