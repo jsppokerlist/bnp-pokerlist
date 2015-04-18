@@ -1,3 +1,6 @@
+999947|KingStannis|3|Stannisjsp|Rhllorschamp
+996013|bbanee|3|wesboyer@gmail.com|bbanee
+787640|AshaMed|3|ashamedjsp|ashaMedd
 481971|TRD|0|crfjsp|crfjsp
 816482|youknowmesonic|0|youknowmesonic@yahoo.com|Sonic@Jsp
 574035|Spankyhaze|0|Spanky_8169@yahoo.com|SpankyhazeLs
@@ -188,7 +191,6 @@
 1044530|iBallHard|0|iballhardjsp|iballhardjsp
 979072|jwalks96|0|jwalksjsp|jwalksjsp
 838799|MTTonly4me|0|Mttonly4meJsp|Mttonly4me
-996013|bbanee|0|wesboyer@gmail.com|bbanee
 980409|Japogs|0|JapogsJSP|Japogs
 785129|Claymen|0|Claymen131|ClaymenJSP
 591552|Sandshrew|0|SandshrewJSP|0
@@ -319,7 +321,6 @@
 1016990|KnightsTemplar1988|4|0|0
 274360|Trispec|0|Superspooky2005|trispec
 774200|gnav|4|Sebbeped@hotmail.com|Gnav@JSP
-787640|AshaMed|0|ashamedjsp|ashaMedd
 400368|Yalla|0|PizznLeSquizzn|0
 232204|highdro|0|highdrojsp@gmail.com|krawkzero
 344838|RistVaLL|0|ristvalljsp|RistVaLL
