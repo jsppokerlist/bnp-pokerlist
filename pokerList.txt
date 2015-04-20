@@ -1,3 +1,4 @@
+211625|magicbouba|0|magicboubajsp|magicbouba
 481574|Confess|4|0|0
 999947|KingStannis|3|Stannisjsp|Rhllorschamp
 996013|bbanee|3|wesboyer@gmail.com|bbanee
@@ -376,7 +377,6 @@
 495670|wyt_chocolat|6|0|0
 512785|entrails|6|0|0
 964876|yix|5|Yixjsp|esZudem Ta
-211625|magicbouba|1|magicboubajsp|magicbouba
 1018010|hokum|6|0|0
 406739|avalvr|4|0|0
 826430|YsoMad1234|4|0|0
