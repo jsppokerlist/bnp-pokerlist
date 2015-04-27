@@ -1,3 +1,4 @@
+1059777|SlayStatioN|5|0|0
 812964|Leupold|6|0|0
 211625|magicbouba|0|magicboubajsp|magicbouba
 481574|Confess|4|0|0
@@ -57,7 +58,6 @@
 1015041|SHREKT|5|SHREKTJSP|SHREKTJSP
 1059744|WizLaugh|5|0|0
 689090|dizzylenegre|5|0|0
-1059777|SlayStatioN|5|0|0
 1002401|Isildur2|6|0|0
 1059270|TheNewLegend|5|0|0
 785688|iyk91|6|0|0
