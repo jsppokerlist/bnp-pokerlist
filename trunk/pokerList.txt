@@ -1,3 +1,4 @@
+1046070|ACMGi|4|0|0
 654994|Lequid|5|0|0
 1047754|andymolly|4|0|0
 1059777|SlayStatioN|5|0|0
@@ -100,7 +101,6 @@
 352395|DEVIN123|0|DevinStCyr|TheDevin
 618996|keanhasu|0|keanhasu|keanhasu
 489574|BarNpub|5|0|0
-1046070|ACMGi|4|0|0
 625974|twiztid_LO7|4|0|0
 463501|Ownagecom|4|0|0
 818091|School4Life|4|0|0
