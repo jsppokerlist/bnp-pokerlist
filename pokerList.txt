@@ -1,3 +1,4 @@
+228396|Fokse|1|Foksejsp|Fokse77
 1025379|JDota72|4|0|0
 1001329|CharliGirl|6|0|0
 334269|eDoc|4|0|0
@@ -46,7 +47,6 @@
 579359|SnowmanA1|0|Snowmanjg8@yahoo.com|Snowman A1
 549309|infallibleleo|0|infallibleleo|infalliblele
 549676|Jays|0|JaysJsp|jays4jays
-228396|Fokse|0|Foksejsp|Fokse77
 494309|Makshade|4|Makshadejsp|makshade
 957913|Rathran|4|0|0
 392025|Quasi|5|namyellit|namyellit
