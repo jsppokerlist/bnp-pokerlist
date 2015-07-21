@@ -1,8 +1,14 @@
+1025379|JDota72|0|0|0
+1031064|Dr0k|0|Dr0kJSP|Dr0kJSP
+388603|trollen|3|punk16uk|0
+273312|shadowman1|3|AlexShadowman11|0
+301234|Fromage|3|kimololololol@Live.ca|0
+530355|DS9|3|DS9jsp|DS9jsp
+734231|Arrowing|3|ArrowingJsp|Arrowing
 1072593|KSU|6|0|0
 635800|ColourOnes|0|toto_s25@hotmail.com|Colour0nes
 1073475|GorillaKing|4|0|0
 228396|Fokse|1|Foksejsp|Fokse77
-1025379|JDota72|4|0|0
 1001329|CharliGirl|6|0|0
 334269|eDoc|4|0|0
 1046070|ACMGi|4|0|0
@@ -30,7 +36,6 @@
 750076|Poker_Canada1989|4|0|0
 819523|Trashcan|4|sofreshtho|0
 506230|Kingquad750|4|0|0
-1031064|Dr0k|4|Dr0kJSP|Dr0kJSP
 1064362|altorolete|0|gambleandinvest|0
 1031285|victor29|6|0|0
 227260|BigMooker|4|0|0
@@ -229,7 +234,6 @@
 530011|Genetics|3|GeneticsJsp|leftyman06
 1042309|vaporizzer|6|0|0
 1040324|Yet_High|4|0|0
-301234|Fromage|0|kimololololol@Live.ca|0
 405673|prawg1|0|GrantGun@hotmail.com|Prawg1
 1028257|GuardiansFate|0|GuardianJSP@gmail.com|GuardianJSP
 751368|sMACKTRiCKz|0|smacktrix|smacktrix
@@ -1030,7 +1034,6 @@
 922393|Kuehljosh|0|0|Kuehljosh
 965385|cathou|0|cathoujsp|cathou42
 567257|shmazoo|0|0|Akinshay
-734231|Arrowing|0|ArrowingJsp|Arrowing
 642517|theduckmilker|0|theduckmilker@gmail.com|i_milk_ducks
 831047|sylz1014|0|sylz1014|sylz1014
 667326|brian_isback|0|Brianrmcleod79|sTpjsp16
@@ -1130,7 +1133,6 @@
 806924|THOR24|5|0|0
 555420|Ironchefdubz|6|0|0
 823726|Suits|0|0|suitsjsp
-530355|DS9|0|DS9jsp|DS9jsp
 544218|Wish|4|0|0
 328289|aznsupaman408|0|aznsupaman408|0
 556356|Pounce|5|0|0
